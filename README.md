@@ -1,9 +1,12 @@
 <h1 align="center">¡Hola, soy Lucas Cabral - Frontend Developer!</h1>
 
+<h2 align="center">Socials</h2>
+
+<a href="https://www.linkedin.com/in/lucas-cabral-silvero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 
-
+##
 <h2 align="center">Skills 🚀</h2>
 <div>
 <img align="center" alt="Lu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
