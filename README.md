@@ -1,8 +1,7 @@
 <h1 align="center">¡Hola, soy Lucas Cabral - Frontend Developer!</h1>
 
-<p><b>Actualmente estoy estudiando desarrollo fullstack en coderhouse, específicamente aprendiendo el stack MERN! </b></p>
+<p align="center">📚<b> Actualmente estudiando desarrollo fullstack en coderhouse, específicamente aprendiendo el stack MERN! </b></p>
  
-##
 <h2>Skills 🚀</h2>
 <div>
 <img align="center" alt="Lu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
