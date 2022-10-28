@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Lucas Cabral - Frontend Developer!</h1>
+<h1 align="center">¡Hola, soy Lucas Cabral - FullStack Web Developer!</h1>
 
 <p align="center">📚<b> Actualmente estudiando desarrollo fullstack en coderhouse, específicamente aprendiendo el stack MERN! </b></p>
  
